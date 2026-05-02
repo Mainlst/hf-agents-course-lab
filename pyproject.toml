@@ -1,0 +1,23 @@
+[project]
+name = "hf-agents-course-lab"
+version = "0.1.0"
+description = "Lab repository for the Hugging Face Agents Course."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckduckgo-search>=8.0.0",
+    "gradio>=5.0.0",
+    "huggingface-hub>=0.30.0",
+    "langgraph>=0.4.0",
+    "llama-index>=0.12.0",
+    "openai>=1.70.0",
+    "pandas>=2.2.0",
+    "pillow>=11.0.0",
+    "pypdf>=5.0.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.32.0",
+    "smolagents>=1.13.0",
+]
+
+[tool.uv]
+package = false
