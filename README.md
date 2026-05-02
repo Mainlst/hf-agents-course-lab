@@ -339,6 +339,6 @@ uv run python eval/run_eval.py
 
 ## ライセンス
 
-このリポジトリのコードは MIT License とします。
+このリポジトリのコードは [MIT License](LICENSE) です。
 
 教材、モデル、外部データの利用条件は、それぞれの提供元のライセンスに従います。
